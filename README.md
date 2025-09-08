@@ -38,10 +38,7 @@ http://localhost:3000
 ![Homepage Screenshot](https://github.com/div-yanjali/2201641630025/blob/main/Screenshot%202025-09-08%20142611.png?raw=true)
 
 ### URL Shortening
-![Shortened URL Screenshot](screenshots/shorten-url.png)
-
-### Copy URL
-![Copy URL Screenshot](screenshots/copy-url.png)
+![Shortened URL Screenshot](https://github.com/div-yanjali/2201641630025/blob/main/Screenshot%202025-09-08%20142715.png?raw=true).
 
 ---
 **##Usage**
