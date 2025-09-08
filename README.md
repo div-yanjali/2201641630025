@@ -31,14 +31,26 @@ Copy code
 npm start
 Open the app in your browser:
 http://localhost:3000
-##MOCK- UP
+---
+## Mock-up / Screenshots
 
-##Usage
+### Homepage
+![Homepage Screenshot](screenshots/homepage.png)
+
+### URL Shortening
+![Shortened URL Screenshot](screenshots/shorten-url.png)
+
+### Copy URL
+![Copy URL Screenshot](screenshots/copy-url.png)
+
+---
+**##Usage**
 Enter a long URL in the input field.
 Click "Shorten" to generate a short URL.
 Copy the shortened URL to share it easily.
 
-##Future Improvements
+---
+**##Future Improvements**
 Add analytics to track URL clicks
 User authentication for personal URL management
 Dark mode support for better UX
